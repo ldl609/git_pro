@@ -1,7 +1,7 @@
 
 									Git基本操作指令
 
-1.git安装,使用git前要配置的是你个人的用户名称和电子邮件地址.提交时都会引用这两条信息,说明是谁提交了更新.
+1.git安装,使用git前要配置个人用户名称和电子邮件地址.提交时会引用这两条信息,用来说明是谁提交了更新.
 # yum install git	//yum安装git
 # git	--version	//检查git版本,检测git安装是否正确
 # git	config 	--global	user.nmae     liudongling
